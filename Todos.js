@@ -58,6 +58,4 @@ class Todos {
 	}
 }
 
-[{}, {}, {}];
-
 module.exports.Todos = Todos;

@@ -13,5 +13,3 @@ async function main(path, data) {
 }
 
 main(sourcePath, data);
-
-console.table(data);
